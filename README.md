@@ -6,6 +6,6 @@ Then, when running the code, you are required to input a command (1 or 2) to per
 
 1 -> test the construction with a partial S-box layer (1000 tests in a few minutes)
 
-2 -> test the construction with a full S-box layer (10000 tests in about 2 minute)
+2 -> test the construction with a full S-box layer (10000 tests in about 2 minutes)
 
 Our paper is available at https://eprint.iacr.org/2020/1034
